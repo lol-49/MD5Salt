@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5 Salt", "MD5 Salt\MD5 Salt.csproj", "{0300E6BF-57F5-412E-B585-0259CFBCAD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0300E6BF-57F5-412E-B585-0259CFBCAD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0300E6BF-57F5-412E-B585-0259CFBCAD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0300E6BF-57F5-412E-B585-0259CFBCAD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0300E6BF-57F5-412E-B585-0259CFBCAD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A526E3F6-8611-46EC-8966-278E97D9A529}
+	EndGlobalSection
+EndGlobal
